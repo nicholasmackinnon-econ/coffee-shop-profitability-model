@@ -24,3 +24,5 @@ Estimate revenue, expenses, profit margins, and break-even points.
 ## Financial Performance Visualization
 
 ![Coffee Shop Financial Chart](coffee-shop-financial-chart.PNG)
+
+The visualization shows that the coffee shop generates strong revenue relative to its operating costs, resulting in a monthly profit of approximately $3,300.
